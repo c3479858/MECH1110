@@ -1,0 +1,10 @@
+What are three (3) constraints which can be used when creating sketches in CREO?
+
+	1) Tangent
+	2) Midpoint
+	3) Symmetric
+
+What are two types of patterns that can be used in CREO and why might you use them?
+
+	1) Radial; for repeating features around an axis
+	2) Linear; for repeating features along an axis
