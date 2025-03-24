@@ -1,0 +1,14 @@
+Name three (3) questions you should ask yourself when you think about design intent?
+
+	1)How am I going to model this?
+	2)What are the steps I need/should do?
+	3)Consider parent child relationships. I.e which operations are going to be done first
+	
+What do parent/child relationships refer to?
+
+	Objects constrained by other objects can be referred to as children, with the object they are being constrained to refered to as parents. Children can move indepentantly of parent objects but when a parent object is transformed, the child is transformed along with it.
+
+What are the two different types of extrusions and when are they typically used?
+
+	1) Additive: used for creating new geometry from sketches as well as lengthening existing faces.
+	2) Subtractive: used for removing geometry from established objects using sketches

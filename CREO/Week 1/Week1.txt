@@ -1,0 +1,7 @@
+If CREO is correctly configured, what units should part files be in by default?
+	
+	Millimeters
+
+What is the correct drawing standard that CREO should be configured to use?
+
+	AS1100

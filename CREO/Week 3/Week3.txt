@@ -1,0 +1,7 @@
+What happens if there is more than one centreline when completing a revolve and why?
+
+	It prioritises the earliest drawn centreline and revolves around only that one. I would assume this is so that you can still draw more than one centreline in a sketch without it messing up the revolve operation.
+	
+What is the difference between revolves and extrudes and why might you want to use one or another?
+
+	A revolve "revolves" a sketch around an axis/centreline to create a solid object, whereas an extrude "pulls" geometry from the face of sketch. Revolves are useful for creating complex cylindrical segments, extrudes are better for creating straight or angular segments
