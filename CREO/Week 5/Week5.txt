@@ -1,0 +1,11 @@
+What depth for both the shaft and hub should the following keyways be cut?
+3 x 3 		Shaft:  		Hub:
+20 x 12 	Shaft: 7.6mm	Hub:
+32 x 18 	Shaft: 			Hub:
+
+Why are cosmetic thread used when modelling parts in CREO?
+
+
+
+Why might you use the hole tool when creating a part in CREO?
+
