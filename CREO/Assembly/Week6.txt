@@ -1,0 +1,13 @@
+Name three (3) modelling techniques you used to create the parts for your Can Crusher.
+
+	1) Additive Extrude
+	2) Revolve
+	3) Pattern
+	
+What size is the key used for the Plunger (width, height and length)?
+
+	4mm * 15mm * 2.5mm
+	
+How deep should the keyway be cut into the Plunger and Plunger Arm? (hint: see Table 2.2/2.3 in Boundy)
+
+	2.5mm
