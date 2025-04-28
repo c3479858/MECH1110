@@ -1,0 +1,19 @@
+Name three (3) constraints you used to assemble the parts of the Can Crusher?
+
+	1) Default
+	2) Coincide
+	3) Parallel
+
+What does it mean when the part you are assembling is magenta in colour?
+
+	Not fully constrained
+
+How does modelling at the assembly level differ to modelling a part and why is it useful?
+
+	Functions similarly to modelling a part but changes affect the entire assembly. Came in very handy
+	when I realised I had the wrong measurements for a hole and changed it on the fly. The assembly then
+	conformed to the new position of the hole.
+
+What is an issue that can occur when modelling at the assembly level?
+
+	You can link a models properties (i.e. the position of a hole) to another object in the model, which can cause issues.
