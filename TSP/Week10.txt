@@ -1,0 +1,13 @@
+Name three (3) requirements which should be included in an AS1100 drawing title block?
+
+	1) Format
+	2) Drawer
+	3) Drawing Name
+
+What is the purpose of using an AS1100 template on detailed drawings?
+
+	So that anyone who looks at a copy of the drawing in the future can still interpret it, even if its been rescaled
+
+What are the consequences of missing critical dimensions in the context of manufacturing?
+
+	The piece may not function or may not fit in the desired area.
