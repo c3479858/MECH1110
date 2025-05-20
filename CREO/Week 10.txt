@@ -1,0 +1,5 @@
+Name three (3) critical components which must be included with assembly drawings?
+
+	1) Third Angle Projection View of assembly
+	2) Exploded View of assembly with labels
+	3) AS1100 Title Block
