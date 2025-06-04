@@ -1,0 +1,7 @@
+Name three (3) critical components which must be included with Detailed Drawings?
+
+	1) Tolerances
+
+	2) Material
+	
+	3) Material Finish

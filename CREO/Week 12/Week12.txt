@@ -1,0 +1,4 @@
+What is the difference between a linear and geometric tolerance?
+
+	Linear tolerance specifies how much a length, diameter, radius etc. can deviate from its specified length.
+	Geometric tolerance specifies how much a section can stray from its ideal shape
