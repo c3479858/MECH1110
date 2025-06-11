@@ -1,0 +1,20 @@
+9)
+	i) Top left: General Tolerances
+	   Top Right: Drawer's Name
+	   Bottom Left: Material Finish
+	   Bottom Middle: Project Number
+
+	ii) 
+		The Issues:
+		- (1)The 8.27 dimension on top right doesn't match with 11 dimension on bottom right.
+		- (2)The size of the hole on bottom right is given as a radius curve, not a diameter circle.
+		- (3)The 84.53 dimension on bottom left adds confusion and is not the correct way of measuring that surface.
+		- (4)The 110.39 dimension on the bottom right, while not being incorrect, should be a different dimension that gives the same information in a more readable way.
+		- (5)The 35(?) dimension and 98(?) dimension on the top left are overlapping and difficult to read, hence the (?).
+
+		To fix them:
+		- (1) Remove the 8.27 dimension as based on visual cues and comparing with other dimensions it is incorrect and 11 is correct.
+		- (2) Change the dimension to a diameter (i.e. (diameter symbol)38 ).
+		- (3) Remove the dimension as we already have enough information from top left to create that portion of the drawing.
+		- (4) Remove the dimension and add a dimension to the bottom left of the bottom left drawing for how high the vertical segment should be before the chamfer.
+		- (5) Move the dimension text to make it more readable.
